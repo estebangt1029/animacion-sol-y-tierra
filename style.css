@@ -36,6 +36,9 @@ align-items: center;
     background-size: 120%;
     background-position: center;
     box-shadow: 0 0 20px 5px orangered;
+    animation-name: rotar;
+    animation-duration: 5;
+    animation-iteration-count: infinite;
     
 }
 .tierra{
